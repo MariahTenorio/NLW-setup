@@ -1,6 +1,6 @@
 # NLW-setup
 
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> NLW-Setup Mariah </h1>
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
